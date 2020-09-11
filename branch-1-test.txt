@@ -1,1 +1,3 @@
 Tworzymy plik
+
+Wprowadzamy moda w branchu branch-conflict
