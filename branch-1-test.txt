@@ -1,1 +1,3 @@
 Tworzymy plik
+
+Modyfikacja w branch-conflict-2
